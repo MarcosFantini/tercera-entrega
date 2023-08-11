@@ -1,0 +1,6 @@
+[
+  {"id":1, "tarjeta": "visa", "banco": "credicop" , "cuotas": 3},
+  {"id":2, "tarjeta": "mastercard", "banco": "santander" , "cuotas": 2},
+  {"id":3, "tarjeta": "mercadoPago", "banco": "nacion" , "cuotas": 4},
+  {"id":4, "tarjeta": "tarjeta Naranja", "banco": "HSBC" , "cuotas": 6}
+]
